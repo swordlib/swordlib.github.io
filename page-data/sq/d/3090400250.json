@@ -1,0 +1,1 @@
+{"data":{"minimalBlogConfig":{"basePath":"/","blogPath":"/blog","postsPath":"content/posts","pagesPath":"content/pages","tagsPath":"/tags","externalLinks":[{"name":"Google","url":"https://www.google.com"}],"navigation":[{"title":"博客","slug":"/blog"},{"title":"关于","slug":"/about"}],"showLineNumbers":true,"showCopyButton":true}}}

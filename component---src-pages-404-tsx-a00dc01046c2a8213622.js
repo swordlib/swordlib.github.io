@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkminimal_blog=self.webpackChunkminimal_blog||[]).push([[218],{66040:function(e,l,n){n.r(l);var t=n(67294),u=n(41789);l.default=function(){return t.createElement(u.Z,null,t.createElement("h1",null,"404 - 页面未找到"),t.createElement("p",null,"哎呀，你要找的页面消失了"))}}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-a00dc01046c2a8213622.js.map
