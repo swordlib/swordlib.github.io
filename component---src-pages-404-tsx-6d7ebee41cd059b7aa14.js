@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkswordman=self.webpackChunkswordman||[]).push([[218],{66040:function(e,n,l){l.r(n);var t=l(67294),u=l(41789);n.default=function(){return t.createElement(u.Z,null,t.createElement("h1",null,"404 - 页面未找到"),t.createElement("p",null,"哎呀，你要找的页面消失了"))}}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-6d7ebee41cd059b7aa14.js.map
