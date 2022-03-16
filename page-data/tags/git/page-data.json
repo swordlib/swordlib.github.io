@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-query-tsx",
+    "path": "/tags/git",
+    "result": {"data":{"allPost":{"nodes":[{"slug":"/一台设备使用多个git-ssh-keys","title":"一台设备使用多个git ssh keys","date":"16.03.2022","excerpt":"英文原文链接 为什么需要多个ssh key 就我来说，我有两个github账号要在同一台设备上使用。需要生成两个ssh keys给不同的账号用。\n因为不同github账号不能使用同一个ssh key 解决方法 在ssh…","timeToRead":1,"description":"一台设备使用多个git ssh keys","tags":[{"name":"ssh","slug":"ssh"},{"name":"git","slug":"git"}]}]}},"pageContext":{"slug":"git","name":"git","formatString":"DD.MM.YYYY"}},
+    "staticQueryHashes": ["2744905544","3090400250","318001574"]}
